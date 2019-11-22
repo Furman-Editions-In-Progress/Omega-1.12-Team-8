@@ -1,0 +1,29 @@
+# 1.50-1.56
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.50	οὐρῆας μὲν πρῶτον ἐπῴχετο καὶ κύνας ἀργούς ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.50	ou)rh=as me\n prw=ton e)pw/|xeto kai\ ku/nas a)rgou/s ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.50		ou)rh=as me\n prw=ton e)pw/|xeto kai\ ku/nas a)rgou/s ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.51	αὐτὰρ ἔπειτʼ αὐτοῖσι βέλος ἐχεπευκὲς ἐφιεὶς
+urn:cts:greekLit:tlg0012.tlg001.allen:1.51	au)ta\r e)/peit# au)toi=si be/los e)xepeuke\s e)fiei\s
+urn:cts:greekLit:tlg0012.tlg001.e4:1.51		au)ta\r e)/peit# au)toi=si be/los e)xepeuke\s e)fiei\s
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.52	βάλλʼ · αἰεὶ δὲ πυραὶ νεκύων καίοντο θαμειαί .
+urn:cts:greekLit:tlg0012.tlg001.allen:1.52	ba/ll# # ai)ei\ de\ purai\ neku/wn kai/onto qameiai/ .
+urn:cts:greekLit:tlg0012.tlg001.e4:1.52		ba/ll# # ai)ei\ de\ purai\ neku/wn kai/onto qameiai/ .
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.53	ἐννῆμαρ μὲν ἀνὰ στρατὸν ᾤχετο κῆλα θεοῖο ,
+urn:cts:greekLit:tlg0012.tlg001.allen:1.53	e)nnh=mar me\n a)na\ strato\n w)/|xeto kh=la qeoi=o ,
+urn:cts:greekLit:tlg0012.tlg001.e4:1.53		e)nnh=mar me\n a)na\ strato\n w)/|xeto kh=la qeoi=o ,
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.54	τῇ δεκάτῃ δʼ ἀγορὴν δὲ καλέσσατο λαὸν Ἀχιλλεύς ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.54	th=| deka/th| d# a)gorh\n de\ kale/ssato lao\n *a)xilleu/s #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.54		th=| deka/th| d# a)gorh\n de\ kale/ssato lao\n *a)xilleu/s #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.55	τῷ γὰρ ἐπὶ φρεσὶ θῆκε θεὰ λευκώλενος Ἥρη ·
+urn:cts:greekLit:tlg0012.tlg001.allen:1.55	tw=| ga\r e)pi\ fresi\ qh=ke qea\ leukw/lenos *h(/rh #
+urn:cts:greekLit:tlg0012.tlg001.e4:1.55		tw=| ga\r e)pi\ fresi\ qh=ke qea\ leukw/lenos *h(/rh #
+
+urn:cts:greekLit:tlg0012.tlg001.allen:1.56	κήδετο γὰρ Δαναῶν , ὅτι ῥα θνήσκοντας ὁρᾶτο .
+urn:cts:greekLit:tlg0012.tlg001.allen:1.56	kh/deto ga\r *danaw=n , o(/ti r(a qnh/skontas o(ra=to .
+urn:cts:greekLit:tlg0012.tlg001.e4:1.56		kh/deto ga\r *danaw=n , o(/ti r(a qnh/skontas o(ra=to .
